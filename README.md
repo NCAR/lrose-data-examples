@@ -1,2 +1,4 @@
 # lrose-example-data
-Data file examples for LROSE apps
+
+Data file examples for LROSE tutorials.
+
